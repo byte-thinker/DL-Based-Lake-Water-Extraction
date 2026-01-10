@@ -1,0 +1,3 @@
+scene_file,truth_file
+/path/to/your/test/img/Img001.tif,/path/to/your/test/label/Img001.tif
+/path/to/your/test/img/Img002.tif,/path/to/your/test/label/Img002.tif
